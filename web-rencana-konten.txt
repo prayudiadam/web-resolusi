@@ -1,4 +1,5 @@
 rencanan konten web
 - javascript
+  *ES6 atau syntax javascript yang baru
 - PHP framework
 - vlogs
