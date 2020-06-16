@@ -1,6 +1,8 @@
 rencanan konten web
 - javascript
   *ES6 atau syntax javascript yang baru
-- Struktur data dasar
+   *angular
+   *react
 - PHP framework
+   *laravel
 - vlogs
